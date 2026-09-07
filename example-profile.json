@@ -1,0 +1,22 @@
+{
+  "app": "Auto Clicker",
+  "version": 1,
+  "profile_name": "Example",
+  "settings": {
+    "start_delay": "3",
+    "repeat": "1"
+  },
+  "steps": [
+    {
+      "x": 500,
+      "y": 350,
+      "delay_ms": 500
+    },
+    {
+      "x": 650,
+      "y": 350,
+      "delay_ms": 1000
+    }
+  ]
+}
+
